@@ -27,12 +27,12 @@ Food Swipe Application connects hotels and customers. Here, various hotels and u
 * Admin can see the foodcart which order is delivered and which is yet to be deliver.
 
 # Contributors
-Rahul Chouhan
-Naveen kumar
-Poonam patil
-Avinash Kumar
-Aman Somvanshi
-Ritika Raina
-Rohit Chaudhary
-Shrikant Patil
-Mayur Gadekar
+* Rahul Chouhan
+* Naveen kumar
+* Poonam patil
+* Avinash Kumar
+* Aman Somvanshi
+* Ritika Raina
+* Rohit Chaudhary
+* Shrikant Patil
+* Mayur Gadekar
